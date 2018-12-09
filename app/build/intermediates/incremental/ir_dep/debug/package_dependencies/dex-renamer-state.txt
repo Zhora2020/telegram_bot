@@ -1,0 +1,4 @@
+#Fri Dec 07 17:56:57 MSK 2018
+base.0=C\:\\Users\\Zhora\\AndroidStudioProjects\\ExampleApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
